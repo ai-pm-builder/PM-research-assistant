@@ -1,0 +1,9 @@
+streamlit
+chromadb
+google-generativeai
+requests
+beautifulsoup4
+python-dotenv
+pandas
+pdfplumber
+pydantic
